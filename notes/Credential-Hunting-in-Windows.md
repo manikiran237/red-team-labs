@@ -62,6 +62,7 @@ Stored credentials are often found in misconfigured scripts or user-created plai
 LaZagne is powerful for uncovering credentials stored in apps and Windows services.
 Use keyword searches and enumeration of common folders to guide discovery.
 Always maintain operational security—never exfiltrate real credentials outside lab environments.
+
 Author: Mani Kiran Palle
 Training: HTB Academy — Credential Hunting Module
 GitHub: https://github.com/manikiran237
