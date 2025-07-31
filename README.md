@@ -23,7 +23,8 @@ To demonstrate practical offensive security skills in areas like:
 | Lab | Description | Link |
 |-----|-------------|------|
 | **Attacking Active Directory & NTDS.dit** | Dump domain hashes and crack credentials | [View Lab](./notes/Attacking-Active-Directory-NTDS.dit.md) |
-| **(Add more here...)** | e.g., Kerberoasting, AS-REP Roasting, etc. | *Coming Soon* |
+| **Credential Hunting in Windows** | Identify and extract stored credentials via GUI, CLI, and LaZagne | [View Lab](./notes/Credential-Hunting-in-Windows.md) |
+| *(More labs coming soon)* | e.g., Kerberoasting, AS-REP Roasting, Pass-the-Hash | *Coming Soon* |
 
 ---
 
@@ -34,7 +35,7 @@ To demonstrate practical offensive security skills in areas like:
 - [Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
 - [Hashcat](https://hashcat.net/hashcat/)
 - [Username Anarchy](https://github.com/urbanadventurer/username-anarchy)
-- `netexec`, `vssadmin`, `smbserver`, and more
+- `netexec`, `vssadmin`, `LaZagne`, `findstr`, `xfreerdp`, `certutil`, and more
 
 ---
 
@@ -52,7 +53,8 @@ If you're a beginner looking to learn safely, I highly recommend:
 ## 🙋‍♂️ About Me
 
 I'm Mani Kiran Palle, an aspiring cybersecurity professional with hands-on experience in red team techniques, system hardening, and Active Directory exploitation.  
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/manikiranpalle) | 📁 Check out my full notes: [GitHub](https://github.com/manikiran237)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/manikiranpalle)  
+📁 Check out my full notes: [GitHub](https://github.com/manikiran237)
 
 ---
 
